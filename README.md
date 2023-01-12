@@ -1,6 +1,6 @@
-- Hello! I am Shivansh Mehta.
-- I am an Electrical Engineer, passionate about Robotics, Aerospace Systems and Additive Manufacturing.
-- I am learning about various domains such as embedded systems, CAD/CAE, control systems design, mechanical systems/mechanism design, FEA/CFD.
+$ Hello! I am Shivansh Mehta.
+$ I am an Electrical Engineer - passionate about Robotics, Control Systems and Additive Manufacturing.
+$ I am learning about diverse domains such as Embedded Systems, CAD/CAE, Control Systems Design, Mechanism Design.
 
 <!---
 Shivansh-Mehta/Shivansh-Mehta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
